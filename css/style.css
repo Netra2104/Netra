@@ -971,15 +971,7 @@ footer .credits a {
 }
 
 .activities-row {
-  padding: 50px 0px 0px 0px;
-  display: flex;
-  justify-content: space-evenly;
-  flex-wrap: wrap;
-  padding-left: 2%;
-}
-
-.activities-row {
-  padding: 50px 0px 0px 0px;
+  padding: 20px 0px 0px 0px;
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
@@ -1022,3 +1014,4 @@ footer .credits a {
   color: black;
   font-size: 13px;
 }
+
