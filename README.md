@@ -1,3 +1,3 @@
-# NetraMali.github.io
+# NetraMali
 My portfolio website:
-https://netra2104.github.io/NetraMali.github.io/
+https://netra2104.github.io/NetraMali/
